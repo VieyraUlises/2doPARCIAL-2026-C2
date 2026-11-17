@@ -2,9 +2,9 @@
 
 **Cátedra:** 00184 — Algoritmos y Estructuras de Datos  
 **Cuatrimestre:** C2 2026  
-**Tema:** Biblioteca musical  
+**Tema:** Biblioteca musical    
 **Lenguaje:** Python 3    
-**Puntaje:** 100 puntos. La nota sobre 10 es `puntos / 10`. Se aprueba con 60 puntos.
+**Puntaje:** 100 puntos. La nota sobre 10 es `puntos / 10`. Se aprueba con 60 puntos. 
 
 Cada ejercicio pide una parte práctica (clases, objetos y funciones) y, al final, una pregunta teórica breve. Las excepciones de la consigna van dentro del ejercicio que las necesita: no hay un ejercicio aparte de excepciones.
 
