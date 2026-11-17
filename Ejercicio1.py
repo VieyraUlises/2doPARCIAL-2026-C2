@@ -1,5 +1,5 @@
 class Cancion:
-    def __init__(señf, id, titulo, artista, album, genero, anio, duracion_seg):
+    def __init__(self, id, titulo, artista, album, genero, anio, duracion_seg):
         self.id=id
         self.titulo=titulo
         self.artista=artista
